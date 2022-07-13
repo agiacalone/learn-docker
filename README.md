@@ -1,3 +1,17 @@
+# CECS 327 Lab: Learn Docker!
+## 20 points
+
+### Assignment Description
+We're going to learn Docker! Below is a tutorial on Docker and its various features. Your assignment is simple: do the exercises in the tutorial.
+
+What I expect of you: a small writeup, roughly a paragraph, on your experience. Commit this to your repository and you should be good to go.
+
+Note: yes, I realize that anyone can fake this assignment. The *purpose* is to get you up and running with Docker for the *next* assignment...so please actually try to do this. Trust me, it's pretty neat and completely worth your time.
+
+### Deliverables
+Commit your paragraph writeup in a readable file to your git repository by the due date and time indicated with your repository--**REPLACE THE EXISTING README.MD WITH YOUR NEW WRITEUP**. Approved file submission formats are: plain text (\*.txt), Markdown (\*.md), PDF (\*.pdf) or web-renderable HTML (\*.html). Github will look for one of these file formats to confirm your "submission" of the assignment. Other formats will only be accepted with *explicit* approval. **NOTE: \*.docx is *not* acceptable. I will not make exceptions for this rule being violated**.
+
+
 Docker: Believe the Hype!
 ============
 
