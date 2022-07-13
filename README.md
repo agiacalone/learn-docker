@@ -9,7 +9,7 @@ What I expect of you: a small writeup, roughly a paragraph, on your experience. 
 Note: yes, I realize that anyone can fake this assignment. The *purpose* is to get you up and running with Docker for the *next* assignment...so please actually try to do this. Trust me, it's pretty neat and completely worth your time.
 
 ### Deliverables
-Commit your paragraph writeup in a readable file to your git repository by the due date and time indicated with your repository--**REPLACE THE EXISTING README.MD WITH YOUR NEW WRITEUP**. Approved file submission formats are: plain text (\*.txt), Markdown (\*.md), PDF (\*.pdf) or web-renderable HTML (\*.html). Github will look for one of these file formats to confirm your "submission" of the assignment. Other formats will only be accepted with *explicit* approval. **NOTE: \*.docx is *not* acceptable. I will not make exceptions for this rule being violated**.
+Commit your paragraph writeup in a readable file to your git repository by the due date and time indicated with your repository. **REPLACE THE EXISTING README.MD WITH YOUR NEW WRITEUP**.
 
 
 Docker: Believe the Hype!
